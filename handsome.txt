@@ -1,3 +1,7 @@
 This file is created in local repository, main branch, on 13/8/2025 at 5:32pm.
+<<<<<<< HEAD
 Handsome Koh is handsome, in main branch, at 5:50pm.
 Handsome is thinking whether to be with Pretty or Gorgeous, at 6:05pm.
+=======
+This line is added in gorgeous branch, on 13/8/2025 at 5:44pm.
+>>>>>>> gorgeous
